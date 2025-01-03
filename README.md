@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A Junior Web Developer working at SOFT QS</h3>
+<h3 align="center">A Junior Full Stack Developer working at SOFT QS</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd4c&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="cd4c" /></p> 
 
